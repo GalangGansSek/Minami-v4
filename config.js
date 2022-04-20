@@ -22,10 +22,10 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281223918622'] //GANTI NOMOR KALIAN
-global.premium = ['6281223918622'] //GANTI NOMOR KALIAN
-global.packname = 'MinamiBot MD' //TERSERAH GANTI APA GAK
-global.author = 'LoliBot MD' //TERSERAH
+global.owner = ['6281515245808'] //GANTI NOMOR KALIAN
+global.premium = ['6281515245808'] //GANTI NOMOR KALIAN
+global.packname = 'GALANG BOTNMD' //TERSERAH GANTI APA GAK
+global.author = 'GALANG MD' //TERSERAH
 global.sessionName = 'lolibot' //JANGAN DIGANTI KALO GAK MAU EROR
 global.prefa = ['','!','.','🐦','🐤','🗿'] //JANGAN DI GANTI
 global.sp = '⭔'
